@@ -3,3 +3,7 @@ desain rumah
 membangun jaringan 
 mebangun jembatan 
 membangun jalan tol menuju kota repuk
+
+Memuat file java
+belajar JS
+belajar web
